@@ -1,0 +1,3 @@
+library(splatter)
+
+params <- newSplatParams()
